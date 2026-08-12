@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-po7b0r.surgaplay43vra.lat/sitemap.xml
